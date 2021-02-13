@@ -6,6 +6,6 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Pages"
-    url: /page-archive/
+    url: /pages/
   - title: "About"
     url: /about/
