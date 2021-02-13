@@ -10,9 +10,9 @@ author_profile: true
 ### About Me ###
 <ul>
 <li type="disc"> <a href="/about"> About </a>
+<li type="disc"> <a href="/journey"> About </a>
+<li type="disc"> <a href="/resume"> About </a>
 </ul>
-* [My Journey] (https://johngorsky.github.io/journey)
-* [My Resume] (https://johngorsky.github.io/resume)
 
 ### Database Info ###
 
