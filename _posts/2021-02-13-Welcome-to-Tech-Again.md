@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Tech Again
+title: "Welcome to Tech Again"
 date: 2021-02-13T06:09:30-05:00
 categories:
   - blog

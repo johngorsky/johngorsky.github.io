@@ -1,11 +1,12 @@
 ---
 permalink: /journey/
+date: 2021-02-13T08:18:00-05:00
 title: "My Journey"
 author_profile: true`
+sitemap: true
 ---
 
-<img align="right" src="../assets/iimages/JohnFriend2.jpg">
-<br clear="right"/>
+![image-right](/assets/images/JohnFriend2.jpg){: .align-right}
 
 
 Let me tell you a bit about my journey so far and how I've gotten to where I am.

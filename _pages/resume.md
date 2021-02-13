@@ -1,7 +1,8 @@
 ---
 permalink: /resume/
 title: "My Resume"
-author_profile: true
+author_profile: false
+sitemap: true
 ---
 
 <center><b>John W. Gorsky Jr.</b></center>    
