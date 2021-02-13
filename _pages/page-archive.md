@@ -8,7 +8,9 @@ author_profile: true
 -----
 
 ### About Me ###
-* [About] (https://johngorsky.github.io/about)
+<ul>
+<li type="disc"> <a href="/about"> About </a>
+</ul>
 * [My Journey] (https://johngorsky.github.io/journey)
 * [My Resume] (https://johngorsky.github.io/resume)
 
