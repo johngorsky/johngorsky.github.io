@@ -31,7 +31,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -60,32 +60,32 @@ plugins:
 author:
   name   : "John Gorsky"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Test and support professional learning and growing as much and as best as I can."
+  bio    : "Test and support professional - Learning and growing as much and as best as I can."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://johngorsky.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/johnwgorsky"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/johngorsky"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/johnwgorsky"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/johnwgorsky"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/johnwgorsky"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/johnwgorsky"
 
 defaults:
   # _posts

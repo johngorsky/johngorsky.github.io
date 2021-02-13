@@ -1,7 +1,7 @@
 ---
-layout: page
-title: My Journey
 permalink: /journey/
+title: "My Journey"
+author_profile: true`
 ---
 
 <img align="right" src="../assets/iimages/JohnFriend2.jpg">

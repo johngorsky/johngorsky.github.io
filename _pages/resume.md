@@ -1,7 +1,7 @@
 ---
-layout: page
-title: My Resume
 permalink: /resume/
+title: "My Resume"
+author_profile: true
 ---
 
 <center><b>John W. Gorsky Jr.</b></center>    
