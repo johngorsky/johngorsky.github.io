@@ -4,10 +4,6 @@ permalink: /pages/
 author_profile: true
 ---
 
-<p><h2> Available Pages </h2>
-<hr width=75%>
-</p>
-
 <p>
 <h3> About Me </h3>
 </p>
