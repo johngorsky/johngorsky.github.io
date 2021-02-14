@@ -64,7 +64,8 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://johngorsky.github.io"
+      #url: "https://johngorsky.github.io"
+      url: "http://www.jgorsky.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/johnwgorsky"
