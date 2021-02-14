@@ -18,6 +18,9 @@ author_profile: true
 
 <p> 
 <h3> Database Info </h3>
+<ul>
+<li type="disc"> <a href="/SQL_Bootcamp"> SQL Bootcamp Notes </a></li>
+</ul>
 </p> 
 
 <p>
