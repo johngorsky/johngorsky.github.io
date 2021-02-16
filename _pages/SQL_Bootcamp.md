@@ -1,6 +1,7 @@
 ---
 title: "SQL Bootcamp"
 date: 2021-02-14T10:00:00-05:00
+classes: wide
 permalink: /SQL_Bootcamp/
 author_profile: true
 sitemap: true
