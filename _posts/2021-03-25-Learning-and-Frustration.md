@@ -17,8 +17,9 @@ I'll keep at it. I know if I don't solve it soon I'll have to look at the instru
 
 I'm generally pretty independent but over the years I've learned:
 
--It never hurts to ask questions.
--It's always nice to have someone to bounce ideas off of.
+- It never hurts to ask questions.
+
+- It's always nice to have someone to bounce ideas off of.
 
 Well, enough of that. Time to get back to it.
 
