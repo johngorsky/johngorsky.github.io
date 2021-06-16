@@ -31,4 +31,4 @@ After a bit I found myself back with a technology firm that specialized in hosti
 
 But, life is always full of twists and I soon received a call from an old high school friend who was heading up an engineering department at an aerospace firm and needed someone who understood manufacturing, electronics, hydraulics, and testing. So off I went on to another adventure where I currently help design and maintain test stands for aerospace components.
 
-I wonder what adventure lies ahead??
+I wonder what adventure lies ahead?
